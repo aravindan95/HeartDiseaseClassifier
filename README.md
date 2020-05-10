@@ -1,4 +1,4 @@
-                                                     Heart Disease Classifier
+                                                  Heart Disease Classifier
 
 This is a study of machine learning models for heart disease prediction. Dataset used is 'Heart Disease Dataset' from UCI Machine Learning Repository.
 
